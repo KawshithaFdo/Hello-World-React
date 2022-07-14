@@ -1,8 +1,9 @@
+import HomePage from "../pages/home";
+import React from "react";
+
 function App() {
   return (
-    <div className="App">
-
-    </div>
+      <HomePage name="Praveen" status="Busy"/>
   );
 }
 
